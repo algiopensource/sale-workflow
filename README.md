@@ -27,12 +27,16 @@ addon | version | summary
 [sale_cancel_reason](sale_cancel_reason/) | 10.0.1.0.0 | Sale Cancel Reason
 [sale_commercial_partner](sale_commercial_partner/) | 10.0.1.0.1 | Add stored related field 'Commercial Entity' on sale orders
 [sale_company_currency](sale_company_currency/) | 10.0.1.0.0 | Company currency in sale orders
+[sale_delivery_split_date](sale_delivery_split_date/) | 10.0.1.0.0 | Sale Deliveries split by date
+[sale_discount_display_amount](sale_discount_display_amount/) | 10.0.1.0.0 | This addon intends to display the amount of the discount computed on sale_order_line and sale_order level
 [sale_exception](sale_exception/) | 10.0.2.0.0 | Custom exceptions on sale order
+[sale_fixed_discount](sale_fixed_discount/) | 10.0.1.0.0 | Allows to apply fixed amount discounts in sales orders.
 [sale_force_invoiced](sale_force_invoiced/) | 10.0.1.0.0 | Allows to force the invoice status of the sales order to Invoiced
 [sale_invoice_group_method](sale_invoice_group_method/) | 10.0.1.0.0 | Sale Invoice Group Method
 [sale_isolated_quotation](sale_isolated_quotation/) | 10.0.1.0.0 | Sales - Isolated Quotation
 [sale_layout_hidden](sale_layout_hidden/) | 10.0.1.0.1 | Sale Layout Hidden Sections
 [sale_merge_draft_invoice](sale_merge_draft_invoice/) | 10.0.1.0.0 | Sale Merge Draft Invoice
+[sale_mrp_link](sale_mrp_link/) | 10.0.1.0.0 | Show manufacturing orders generated from sales order
 [sale_order_action_invoice_create_hook](sale_order_action_invoice_create_hook/) | 10.0.1.0.0 | Sale Order Action Invoice Create Hook
 [sale_order_invoicing_finished_task](sale_order_invoicing_finished_task/) | 10.0.1.0.3 | Control invoice order lines if his task has been finished
 [sale_order_line_date](sale_order_line_date/) | 10.0.1.0.0 | Sale Order Line Date
